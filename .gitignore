@@ -1,0 +1,15 @@
+# Local generation workspace and intermediate assets.
+/hatch-run-*/
+/.omx/
+
+# Root-level source/reference drops. Published assets live under pets/ and qa/.
+/*.jpg
+/*.jpeg
+/*.png
+/*.webp
+
+# Local editor/system noise.
+/.vscode/
+/.idea/
+Thumbs.db
+Desktop.ini
